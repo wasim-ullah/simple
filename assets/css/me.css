@@ -232,7 +232,7 @@ body.page-template-page-fullsingle-me {
         .network ul li a .svg-icon path,
         .network ul li a .svg-icon polygon,
         .network ul li a .svg-icon rect {
-          fill: #999999;
+          fill: #000000;
           -webkit-transition: 1s;
           transition: 1s; }
         .network ul li a .svg-icon circle {
