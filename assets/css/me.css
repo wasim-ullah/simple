@@ -183,6 +183,7 @@ body.page-template-page-fullsingle-me {
   -webkit-animation: fadein 4s;
           animation: fadein 4s;
   letter-spacing: -1px;
+  font-size: 30px;
   max-width: 66%; }
   @media (max-width: 800px) {
     .bio {
