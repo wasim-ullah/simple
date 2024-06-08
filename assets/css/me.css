@@ -183,6 +183,8 @@ body.page-template-page-fullsingle-me {
   -webkit-animation: fadein 4s;
           animation: fadein 4s;
   letter-spacing: -1px;
+  color: #e6e6e6;
+  font-size: 15px;
   max-width: 66%; }
   @media (max-width: 800px) {
     .bio {
@@ -256,7 +258,7 @@ body.page-template-page-fullsingle-me {
     font-weight: 400;
     opacity: 0.4; }
     .credit p.copyright a {
-      color: #999999; }
+      color: #e6e6e6; }
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
