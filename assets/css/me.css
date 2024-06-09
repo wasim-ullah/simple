@@ -252,7 +252,7 @@ body.page-template-page-fullsingle-me {
 
 @media (max-width: 500px) {
     .network ul li a .svg-icon {
-    text-align: center;
+    text-align: left;
     width: 17px;
     height: 17px;} }
 
