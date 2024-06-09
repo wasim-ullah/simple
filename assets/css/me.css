@@ -163,6 +163,7 @@ text-align: center;}
     .logo {
       -webkit-align-self: center;
               align-self: center;
+       position: absolute;
     padding: 10vh 10vw;} }
   .logo img {
     max-width: 130px;
