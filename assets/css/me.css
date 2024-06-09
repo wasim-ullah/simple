@@ -128,7 +128,7 @@ body.page-template-page-fullsingle-me {
   z-index: 1000; }
   @media (max-width: 500px) {
     .fs-me {
-      padding: 5vh 5vw;
+      padding: 5vh 10vw;
       text-align: center; } }
   .fs-me .me-content {
     height: 50vh;
