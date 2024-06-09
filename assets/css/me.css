@@ -169,7 +169,8 @@ body.page-template-page-fullsingle-me {
  @media (max-width: 500px) {
     .logo img {
       max-width: 100px;
-    height: auto; } }
+    height: auto;
+    text-align: center; } }
 .bio {
   -webkit-box-flex: 1;
   -webkit-flex: 1 1 auto;
