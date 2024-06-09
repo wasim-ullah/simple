@@ -164,7 +164,12 @@ body.page-template-page-fullsingle-me {
               align-self: center; } }
   .logo img {
     max-width: 130px;
-    height: auto; }
+    height: auto;
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+  }
 
 .bio {
   -webkit-box-flex: 1;
