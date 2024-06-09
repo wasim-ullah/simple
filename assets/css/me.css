@@ -231,7 +231,7 @@ text-align: center;}
     margin: 0;
     display: block; } }
 
-@media (max-width: 500px) {
+@media (max-width: 743px) {
     .network ul li a .svg-icon path,
         .network ul li a .svg-icon polygon,
         .network ul li a .svg-icon rect {
