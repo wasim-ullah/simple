@@ -121,7 +121,27 @@ body.page-template-page-fullsingle-me {
         font-size: 32px;
         line-height: 40px; } }
 
-
+.fs-me {
+  padding: 10vh 10vw;
+  overflow: hidden;
+  position: absolute;
+  z-index: 1000; }
+  @media (max-width: 500px) {
+    .fs-me {
+      padding: 10vh 10vw;
+      text-align: center; } }
+  .fs-me .me-content {
+    height: 50vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+            flex-direction: column; }
+    @media (max-width: 500px) {
+      .fs-me .me-content {
+        height: 90vh; } }
 
 .logo {
   padding: 10vh 10vw;
