@@ -165,13 +165,11 @@ body.page-template-page-fullsingle-me {
   .logo img {
     max-width: 130px;
     height: auto;
-    @media (max-width: 500px) {
+  }
+ @media (max-width: 500px) {
     .logo img {
       max-width: 100px;
-    height: auto;
-    align-self: center; } }
-  }
-
+    height: auto; } }
 .bio {
   -webkit-box-flex: 1;
   -webkit-flex: 1 1 auto;
