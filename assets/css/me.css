@@ -144,7 +144,7 @@ body.page-template-page-fullsingle-me {
         height: 90vh; } }
 
 .logo {
-  padding: 10vh 50vw;
+  padding: 10vh 30vw;
   position: absolute;
   -webkit-box-flex: 1;
   -webkit-flex: 1 1 auto;
@@ -164,7 +164,7 @@ text-align: center;}
       -webkit-align-self: center;
               align-self: center;
        position: absolute;
-    padding: 10vh 50vw; } }
+    padding: 10vh 30vw; } }
   .logo img {
     max-width: 130px;
     height: auto;
