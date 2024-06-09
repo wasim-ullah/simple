@@ -253,7 +253,8 @@ body.page-template-page-fullsingle-me {
 @media (max-width: 500px) {
     .network ul li a .svg-icon {
     width: 17px;
-    height: 17px;} }
+    height: 17px;
+    fill: #ffffff;} }
 
 .credit {
   font-size: 12px;
