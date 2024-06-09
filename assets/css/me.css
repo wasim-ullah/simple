@@ -156,14 +156,15 @@ body.page-template-page-fullsingle-me {
           flex-direction: column;
   -webkit-align-self: left;
           align-self: left;
+max-width: 130px;}
   -webkit-animation: fadein 2s;
-          animation: fadein 2s; }
+          animation: fadein 2s;
   @media (max-width: 500px) {
     .logo {
       -webkit-align-self: center;
               align-self: center; } }
   .logo img {
-    max-width: 165px;
+    max-width: 100px;
     height: auto; }
 
 .bio {
