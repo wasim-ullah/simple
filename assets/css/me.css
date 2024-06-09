@@ -165,10 +165,6 @@ body.page-template-page-fullsingle-me {
   .logo img {
     max-width: 130px;
     height: auto;
-    display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
   }
 
 .bio {
