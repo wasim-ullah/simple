@@ -99,11 +99,11 @@ a:hover {
     opacity: 1; } }
 
 html {
-  background-color: #141414; }
+  background-color: #FFFFFF; }
 
 body.page-template-page-fullsingle-me {
   height: 100vh;
-  background-color: #141414;
+  background-color: #FFFFFF;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 45px;
@@ -164,7 +164,7 @@ text-align: center;}
       -webkit-align-self: center;
               align-self: center;
        position: absolute;
-    padding: 10vh 10vw;} }
+    padding: 10vh 10vw; } }
   .logo img {
     max-width: 130px;
     height: auto;
@@ -174,36 +174,6 @@ text-align: center;}
       max-width: 100px;
     height: auto;
     text-align: center; } }
-.bio {
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 1 auto;
-          flex: 1 1 auto;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-          justify-content: center;
-  -webkit-animation: fadein 4s;
-          animation: fadein 4s;
-  letter-spacing: -1px;
-  font-size: 30px;
-  max-width: 66%; }
-  @media (max-width: 800px) {
-    .bio {
-      max-width: none; } }
-  .bio a {
-    color: #CCCCCC;
-    -webkit-transition: 1s;
-    transition: 1s; }
-    .bio a:hover {
-      color: #FFFFFF;
-      -webkit-transition: 0.1s;
-      transition: 0.1s; }
 
 .network {
   -webkit-box-flex: 1;
