@@ -255,7 +255,10 @@ text-align: center;}
 @media (max-width: 500px) {
     .network ul li a .svg-icon {
     width: 17px;
-    height: 17px; } }
+    height: 17px; 
+    padding: 4px;
+    margin: 0;
+    display: block; } }
 
 @media (max-width: 500px) {
     .network ul li a .svg-icon path,
