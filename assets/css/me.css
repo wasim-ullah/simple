@@ -144,8 +144,8 @@ body.page-template-page-fullsingle-me {
         height: 90vh; } }
 
 .logo {
-  padding: 10vh;
-  
+  padding: 10vh 10vw;
+  position: absolute;
   -webkit-box-flex: 1;
   -webkit-flex: 1 1 auto;
           flex: 1 1 auto;
