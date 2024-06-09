@@ -156,8 +156,8 @@ body.page-template-page-fullsingle-me {
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
           flex-direction: column;
-  -webkit-align-self: left;
-          align-self: left; }
+  
+text-align: center;}
   -webkit-animation: fadein 2s;
           animation: fadein 2s;
   @media (max-width: 500px) {
